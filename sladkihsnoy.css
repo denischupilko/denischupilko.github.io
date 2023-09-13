@@ -1,0 +1,14 @@
+html {
+    background-image: url("https://almode.ru/uploads/posts/2022-01/thumbs/1642362149_1-almode-ru-p-krasnii-fon-s-serdechkami-1.jpg");
+    background-repeat: repeat;
+}
+
+h1 {
+    color: aliceblue;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
